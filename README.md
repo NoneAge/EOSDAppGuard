@@ -118,4 +118,4 @@ support@noneage.com
 
 [联系我们](mailto:support@noneage.com)
 
-[telegram](t.me/eosdappguard)
+[telegram](https://t.me/eosdappguard)
